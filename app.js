@@ -23,6 +23,7 @@ app.use(controller.get('/', function*() {
     this.body = yield render('index');
 }));
 
-
+//监听的是3000端口
 app.listen(3000);
+
 console.log('Koa server is started!');
