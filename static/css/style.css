@@ -96,7 +96,6 @@ a{text-decoration: none;}
 }
 
 .head-right li{
-    /* border:1px solid #fff;*/
     float: left;
     margin-right:10px;
     padding: 3px 7px;
@@ -300,9 +299,6 @@ a{text-decoration: none;}
     margin-top: 20px;
 }
 
-.section5{
-   /* background:url(http://upload-images.jianshu.io/upload_images/2585384-8583eccbac17435b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/124) ;*/
-}
 .section5 h1{
     text-align: center;
     position: relative;
@@ -368,6 +364,7 @@ a{text-decoration: none;}
     text-shadow: 10px 10px 10px #e8e8e8;
     float: left;
     list-style: none;
+    padding-top: 40px;
 }
 .section6 ul li:hover{
     color:#0965B8;
@@ -575,24 +572,10 @@ a{text-decoration: none;}
         display: none;
     }
 
+
     .section6 ul {
         font-size: 12px;
     }
 
 
 }
-/*
-@media screen and (min-width:1501px) and (max-width: 2000px){
-    html {
-        font-size: 20px;
-        -webkit-text-size-adjust: none;
-    }
-}
-
-@media screen and (min-width:2001px){
-    html {
-        font-size: 30px;
-        -webkit-text-size-adjust: none;
-    }
-}
-*/
